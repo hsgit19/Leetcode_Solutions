@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

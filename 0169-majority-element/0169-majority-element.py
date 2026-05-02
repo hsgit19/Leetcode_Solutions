@@ -1,11 +1,21 @@
-from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]):
-        cst = Counter(nums)
+        can = None
+        count = 0
 
-        for c in cst:
-            if cst[c] > len(nums)/2:
-               return c
+        for num in nums:
+            if can == num:
+                 count += 1
+            elif count == 0:
+                 can = num
+            else:
+                count -= 1
+
+        return can
+                 
+        
+
+       
             
 
         

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/hsgit19/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
